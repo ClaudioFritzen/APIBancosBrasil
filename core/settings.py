@@ -45,6 +45,8 @@ INSTALLED_APPS = [
 
     #  meus apps
     'APIBanco',
+    'bancos',
+    
 ]
 
 MIDDLEWARE = [
